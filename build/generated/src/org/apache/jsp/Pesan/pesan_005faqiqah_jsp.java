@@ -55,7 +55,7 @@ public final class pesan_005faqiqah_jsp extends org.apache.jasper.runtime.HttpJs
       out.write("            <div class=\"container\">\n");
       out.write("        <div class=\"leave-comment\">\n");
       out.write("\t\t<h5>Silahkan Isi Data Dengan Baik dan Benar !</h5>\n");
-      out.write("                <form class=\"form-horizontal\" role=\"form\" action=\"../Home/Home.jsp\">\n");
+      out.write("                <form class=\"form-horizontal\" role=\"form\" action=\"../Home/Home1.jsp\">\n");
       out.write("\t\t\t\n");
       out.write("                                        \n");
       out.write("                        <div class=\"form-group\">\n");
@@ -90,7 +90,7 @@ public final class pesan_005faqiqah_jsp extends org.apache.jasper.runtime.HttpJs
       out.write("\t\t\t\t\t\t  \t<div class=\"form-group\">\n");
       out.write("\t\t\t\t\t\t    \t<label for=\"inputwebsite\" class=\"col-sm-2 control-label\">Harga</label>\n");
       out.write("\t\t\t\t\t\t\t    <div class=\"col-sm-10\">\n");
-      out.write("                                                                <input type=\"text\" class=\"form-control\" id=\"inputwebsite\" placeholder=\"Rp. 25000000\" name=\"nohp\" disabled>\n");
+      out.write("                                                                <input type=\"text\" class=\"form-control\" id=\"inputwebsite\" placeholder=\"Rp. 3500000\" name=\"nohp\" disabled>\n");
       out.write("\t\t\t\t\t\t\t    </div>\n");
       out.write("\t\t\t\t\t\t  \t</div>\t<!-- End of /.form-group -->\n");
       out.write("\t\t\t\t\t\t  \t\n");
@@ -117,7 +117,7 @@ public final class pesan_005faqiqah_jsp extends org.apache.jasper.runtime.HttpJs
       out.write("                                                        \n");
       out.write("                                                    <div class=\"form-group\">\n");
       out.write("\t\t\t\t\t\t    \t<div class=\"col-sm-offset-2 col-sm-10\">\n");
-      out.write("\t\t\t\t\t\t      \t\t<button type=\"submit\" class=\"btn btn-primary\">Daftar </button>\n");
+      out.write("\t\t\t\t\t\t      \t\t<button type=\"submit\" class=\"btn btn-primary\"> Pesan </button>\n");
       out.write("\t\t\t\t\t\t    \t</div>\n");
       out.write("                                                        </div>\t<!-- End of /.form-group -->\n");
       out.write("                                                        \n");

@@ -10,7 +10,7 @@
             <div class="container">
         <div class="leave-comment">
 		<h5>Silahkan Isi Data Dengan Baik dan Benar !</h5>
-                <form class="form-horizontal" role="form" action="../Home/Home.jsp">
+                <form class="form-horizontal" role="form" action="../Home/Home1.jsp">
 			
                                         
                         <div class="form-group">

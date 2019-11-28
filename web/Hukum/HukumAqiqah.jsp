@@ -61,45 +61,61 @@
 
                             <br>
                             <br>
-                            <b>Definisi Qurban</b>
+                            BANTAHAN TERHADAP ORANG YANG MENGINGKARI DAN MEMBID’AHKAN AQIQAH
+                            <br>
+                            Ibnul Mundzir rahimahullah membantah mereka dengan mengatakan bahwa : “Orang-orang ‘Aqlaniyyun (orang-orang yang mengukur kebenaran dengan akalnya, saat ini seperti sekelompok orang yang menamakan sebagai kaum Islam Liberal, pen) mengingkari sunnahnya aqiqah, pendapat mereka ini jelas menyimpang jauh dari hadist-hadist yang tsabit (shahih) dari Rasulullah karena berdalih dengan hujjah yang lebih lemah dari sarang laba-laba.” [Sebagaimana dinukil oleh Ibnu Qayyim al-Jauziyah dalam kitabnya “Tuhfatul Maudud” hal.20, dan Ibnu Hajar al-Asqalani dalam “Fathul Bari” (9/588)].
+
+
                             <br>
                             <br>
-                            Kata qurban yang kita pahami, berasal dari bahasa Arab, artinya pendekatan diri, sedangkan maksudnya adalah menyembelih binatang ternak sebagai sarana pendekatan diri kepada Allah. Arti ini dikenal dalam istilah Islam sebagai udhiyah. Udhiyah secara bahasa mengandung dua pengertian, yaitu kambing yang disembelih waktu Dhuha dan seterusnya, dan kambing yang disembelih di hari ‘Idul Adha. Adapun makna secara istilah, yaitu binatang ternak yang disembelih di hari-hari Nahr dengan niat mendekatkan diri (taqarruban) kepada Allah dengan syarat-syarat tertentu (Syarh Minhaj).&nbsp;
+                            WAKTU AQIQAH PADA HARI KETUJUH
+
                             <br>
                             <br>
-                            <b>Hukum Qurban</b>
+                            Berdasarkan hadist no.2 dari Samurah bin Jundab. Para ulama berpendapat dan sepakat bahwa waktu aqiqah yang paling utama adalah hari ketujuh dari hari kelahirannya. Namun mereka berselisih pendapat tentang bolehnya melaksanakan aqiqah sebelum hari ketujuh atau sesudahnya. Al-Hafidz Ibnu Hajar rahimahullah berkata dalam kitabnya “Fathul Bari” (9/594) :
+
+
                             <br>
                             <br>
-                            Hukum qurban menurut jumhur ulama adalah sunnah muaqqadah sedang menurut mazhab Abu Hanifah adalah wajib. Allah SWT berfirman:&nbsp;
+                            “Sabda Rasulullah pada perkataan ‘pada hari ketujuh kelahirannya’ (hadist no.2), ini sebagai dalil bagi orang yang berpendapat bahwa waktu aqiqah itu adanya pada hari ketujuh dan orang yang melaksanakannya sebelum hari ketujuh berarti tidak melaksanakan aqiqah tepat pada waktunya. bahwasannya syariat aqiqah akan gugur setelah lewat hari ketujuh. Dan ini merupakan pendapat Imam Malik. Beliau berkata : “Kalau bayi itu meninggal sebelum hari ketujuh maka gugurlah sunnah aqiqah bagi kedua orang tuanya.”
+
                             <br>
                             <br>
-                            “Maka dirikanlah shalat karena Tuhanmu dan berkorbanlah”&nbsp;(QS Al-Kautsaar: 2).&nbsp;
+                            Sebagian membolehkan melaksanakannya sebelum hari ketujuh. Pendapat ini dinukil dari Ibnu Qayyim al-Jauziyah dalam kitabnya “Tuhfatul Maudud” hal.35. Sebagian lagi berpendapat boleh dilaksanakan setelah hari ketujuh. Pendapat ini dinukil dari Ibnu Hazm dalam kitabnya “al-Muhalla” 7/527.
+
+
                             <br>
                             <br>
-                            Rasulullah SAW bersabda:&nbsp;
+                            BERSEDEKAH DENGAN PERAK SEBERAT TIMBANGAN RAMBUT
+                            <br>
+                            Syaikh Ibrahim bin Muhammad bin Salim bin Dhoyyan berkata : “Dan disunnahkan mencukur rambut bayi, bersedekah dengan perak seberat timbangan rambutnya dan diberi nama pada hari ketujuhnya. Masih ada ulama yang menerangkan tentang sunnahnya amalan tersebut (bersedekah dengan perak), seperti : al-Hafidz Ibnu Hajar al-Asqalani, Imam Ahmad, dan lain-lain.”
+
                             <br>
                             <br>
-                            “Siapa yang memiliki kelapangan dan tidak berqurban, maka jangan dekati tempat shalat kami”&nbsp;(HR Ahmad, Ibnu Majah dan Al-Hakim).&nbsp;
+                            AQIQAH UNTUK ANAK LAKI-LAKI DUA KAMBING DAN PEREMPUAN SATU KAMBING
+                            <br>
+                            Berdasarkan hadist no.3 dan no.5 dari Aisyah dan ‘Amr bin Syu’aib. “Setelah menyebutkan dua hadist diatas, al-Hafidz Ibnu Hajar berkata dalam “Fathul Bari” (9/592) : “Semua hadist yang semakna dengan ini menjadi hujjah bagi jumhur ulama dalam membedakan antara bayi laki-laki dan bayi perempuan dalam masalah aqiqah.”
+
                             <br>
                             <br>
-                            Dalam hadits lain:&nbsp;“Jika kalian melihat awal bulan Zulhijah, dan seseorang di antara kalian hendak berqurban, maka tahanlah rambut dan kukunya (jangan digunting)”&nbsp;(HR Muslim).&nbsp;
+                            <b>BOLEH AQIQAH BAYI LAKI-LAKI DENGAN SATU KAMBING</b>
+                            <br>Berdasarkan hadist no. 4 dari Ibnu Abbas. Sebagian ulama berpendapat boleh mengaqiqahi bayi laki-laki dengan satu kambing yang dinukil dari perkataan Abdullah bin ‘Umar, ‘Urwah bin Zubair, Imam Malik dan lain-lain mereka semua berdalil dengan hadist Ibnu Abbas diatas.
+
+
                             <br>
                             <br>
-                            Bagi seorang muslim atau keluarga muslim yang mampu dan memiliki kemudahan, dia sangat dianjurkan untuk berqurban. Jika tidak melakukannya, menurut pendapat Abu Hanifah, ia berdosa. Dan menurut pendapat jumhur ulama dia tidak mendapatkan keutamaan pahala sunnah.&nbsp;
+                            <b>BACAAN KETIKA MENYEMBELIH KAMBING</b>
                             <br>
                             <br>
-                            <b>Binatang yang Boleh Diqurbankan</b>
+                            فَكُلُوا مِمَّا أَمْسَكْنَ عَلَيْكُمْ وَاذْكُرُوا اسْمَ اللَّ
+
+
                             <br>
                             <br>
-                            Adapun binatang yang boleh digunakan untuk berqurban adalah binatang ternak (Al-An’aam), unta, sapi dan kambing, jantan atau betina. Sedangkan binatang selain itu seperti burung, ayam dll tidak boleh dijadikan binatang qurban. Allah SWT berfirman:&nbsp;
+                            “Maka makanlah dari apa yang ditangkapnya untukmu dan sebutlah nama Allah…” [Al-Maidah/5 : 4]
+
                             <br>
-                            <br>
-                            “Dan bagi tiap-tiap umat telah Kami syariatkan penyembelihan (qurban), supaya mereka menyebut nama Allah terhadap binatang ternak yang telah direzkikan Allah kepada mereka”&nbsp;(QS Al-Hajj 34).&nbsp;
-                            <br>
-                            <br>
-                            Kambing untuk satu orang, boleh juga untuk satu keluarga. Karena Rasulullah SAW menyembelih dua kambing, satu untuk beliau dan keluarganya dan satu lagi untuk beliau dan umatnya. Sedangkan unta dan sapi dapat digunakan untuk tujuh orang, baik dalam satu keluarga atau tidak, sesuai dengan hadits Rasulullah SAW:&nbsp;
-                            <br>
-                            <br>
+<!--                            <br>
                             Dari Jabir bin Abdullah, berkata “Kami berqurban bersama Rasulullah SAW di tahun Hudaibiyah, unta untuk tujuh orang dan sapi untuk tujuh orang”&nbsp;(HR Muslim).&nbsp;
                             <br>
                             <br>
@@ -219,7 +235,7 @@
                             <br>
                             Sesungguhnya Allah berfirman (dalam hadits Qudsi):&nbsp;“Siapa yang memerangi kekasih-Ku, niscaya aku telah umumkan perang padanya. Tidaklah seorang hamba mendekatkan diri pada-Ku (taqarrub) dengan sesuatu yang paling Aku cintai, dengan sesuatu yang aku wajibkan. Dan jika hamba-Ku senantiasa mendekatkan diri kepada-Ku dengan yang sunnah, maka Aku mencintainya. Jika Aku telah mencintainya, maka Aku menjadi pendengarannya dimana ia mendengar, menjadi penglihatannya dimana ia melihat, tangannya dimana ia memukul dan kakinya, dimana ia berjalan. Jika ia meminta, niscaya Aku beri dan jika ia minta perlindungan, maka Aku lindungi”&nbsp;(HR Bukhari).&nbsp;
                             <br>
-                            <br>
+                            <br>-->
                             Berqurban (udhiyah) adalah salah satu bentuk pendekatan diri kepada Allah dengan mengorbankan sebagian kecil hartanya, untuk dibelikan binatang ternak. Menyembelih binatang tersebut dengan persyaratan yang sudah ditentukan. Sedangkan berkorban (tadhiyah) mempunyai arti yang lebih luas yaitu berkorban dengan harta, jiwa, pikiran dan apa saja untuk tegaknya Islam. Dalam suasana dimana umat Islam di Indonesia sedang terkena musibah banjir, dan mereka banyak yang menjadi korban. Maka musibah ini harus menjadi pelajaran berarti bagi umat Islam. Apakah musibah ini disebabkan karena mereka menjauhi Allah SWT dan menjauhi ajaran-Nya? Yang pasti, musibah ini harus lebih mendekatkan umat Islam kepada Allah (taqqarub ilallah). Melaksanakan perintah-Nya dan menjauhi larangan-Nya. Dan yang tidak tertimpa musibah banjir ini dituntut untuk memberikan kepeduliannya dengan cara berkorban dan memberikan bantuan kepada mereka yang terkena musibah. Dan di antara bentuk pendekatan diri kepada Allah dan bentuk pengorbanan kita dengan melakukan qurban penyembelihan sapi dan kambing pada hari Raya ‘Idul Adha dan Hari Tasyrik. Semoga Allah menerima qurban kita dan meringankan musibah ini, dan yang lebih penting lagi menyelamatkan kita dari api neraka.&nbsp;
                             <br>
                             </p>
