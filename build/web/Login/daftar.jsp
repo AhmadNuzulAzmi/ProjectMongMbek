@@ -22,13 +22,13 @@
 			<label for="inputname" class="col-sm-2 control-label">Jenis Kelamin</label>
                         <div class="col-sm-10">
                             <div class="select-box">
-                                    <label for="select-box1" class="label select-box1"><span class="label-desc"> Jenis Kelamin </span></label>
+                                    <label for="select-box1" class="label select-box1"><span class="label-desc"> Pilih Jenis Kelamin </span></label>
                                                 <select id ="select-box1" class="select">
                                                     <option value="lk"> Laki-laki </option>
                                                     <option value="pr"> Perempuan </option>
                                                 </select>
-                            </div>
-                                            </div>
+                                </div>
+                                             </div>
 						  	</div>	<!-- End of /.form-group -->
                                                         
 						  	<div class="form-group">
