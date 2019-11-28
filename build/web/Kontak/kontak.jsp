@@ -8,8 +8,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <jsp:include page="../Bingkai/header.html"></jsp:include>
     </head>
     <body>
         <section id="blog">
@@ -18,4 +17,5 @@
                         <h3> Kontak kami</h3>
         </div>
     </body>
+    <jsp:include page="../Bingkai/Footer.html"></jsp:include>
 </html>
