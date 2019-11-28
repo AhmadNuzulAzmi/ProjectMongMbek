@@ -56,8 +56,17 @@ public final class kontak_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t<div class=\"container\">\n");
       out.write("                    <div class=\"leave-comment\">\n");
       out.write("                        <h3> Kontak kami</h3>\n");
+      out.write("                        <br>\n");
+      out.write("                        <p> Rumbai, Pekanbaru </p>\n");
+      out.write("                        <br>\n");
+      out.write("                        <p>Jl. Paus No.23, Rumbai, 1563, Riau</p>\n");
+      out.write("                        <br/>\n");
+      out.write("                        <p>Phone +62 78 651 72 86, Fax. +62 45 726 12</p>\n");
       out.write("        </div>\n");
       out.write("    </body>\n");
+      out.write("    ");
+      org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "../Bingkai/Footer.html", out, false);
+      out.write("\n");
       out.write("</html>\n");
     } catch (Throwable t) {
       if (!(t instanceof SkipPageException)){
