@@ -140,7 +140,7 @@ public final class Home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t\t<center>\n");
       out.write("\t\t\t\t\t\t  \t<div class=\"col-sm-6 col-md-4\">\n");
       out.write("\t\t\t\t\t\t\t    <div class=\"thumbnail\">\n");
-      out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"blog-single.html\">\n");
+      out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"../Hukum/HukumQurban.jsp\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<img src=\"../images/s2.png\"  alt=\"...\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<h3> Qurban </h3>\n");
       out.write("\t\t\t\t\t\t\t\t\t</a>\n");
@@ -169,7 +169,7 @@ public final class Home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t  \t<center>\n");
       out.write("\t\t\t\t\t\t  \t<div class=\"col-sm-6 col-md-4\">\n");
       out.write("\t\t\t\t\t\t\t    <div class=\"thumbnail\">\n");
-      out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"blog-single.html\">\n");
+      out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"../Hukum/HukumAqiqah.jsp\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<img src=\"../images/k4.png\" alt=\"...\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<h3> Aqiqah </h3>\n");
       out.write("\t\t\t\t\t\t\t\t\t</a>\n");
