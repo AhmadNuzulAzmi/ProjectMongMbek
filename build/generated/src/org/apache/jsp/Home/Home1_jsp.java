@@ -97,7 +97,7 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t\t      \t<div class=\"caption\">\n");
       out.write("\t\t\t\t\t\t\t        \t<p> Mari BerQurban </p>\n");
       out.write("\t\t\t\t\t\t\t        \t<p>\n");
-      out.write("\t\t\t\t\t\t\t        \t\t<a href=\"blog-single.html\" class=\"btn btn-default btn-transparent\" role=\"button\">\n");
+      out.write("\t\t\t\t\t\t\t        \t\t<a href=\"../Pesan/pesan_qurban.jsp\" class=\"btn btn-default btn-transparent\" role=\"button\">\n");
       out.write("\t\t\t\t\t\t\t        \t\t\t<span> Daftar </span>\n");
       out.write("\t\t\t\t\t\t\t        \t\t</a>\n");
       out.write("\t\t\t\t\t\t\t        \t</p>\n");
@@ -131,7 +131,7 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t\t      \t<div class=\"caption\">\n");
       out.write("\t\t\t\t\t\t\t\t        <p> Mari BerAqiqah </p>\n");
       out.write("\t\t\t\t\t\t\t\t        <p>\n");
-      out.write("\t\t\t\t\t\t\t\t        \t<a href=\"blog-single.html\" class=\"btn btn-default btn-transparent\" role=\"button\">\n");
+      out.write("\t\t\t\t\t\t\t\t        \t<a href=\"../Pesan/pesan_aqiqah.jsp\" class=\"btn btn-default btn-transparent\" role=\"button\">\n");
       out.write("\t\t\t\t\t\t\t\t        \t\t<span> Daftar </span>\n");
       out.write("\t\t\t\t\t\t\t\t        \t</a>\n");
       out.write("\t\t\t\t\t\t\t\t        </p>\n");

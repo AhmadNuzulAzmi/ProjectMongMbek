@@ -49,14 +49,14 @@
 							<center>
 						  	<div class="col-sm-6 col-md-4">
 							    <div class="thumbnail">
-							    	<a class="catagotie-head" href="blog-single.html">
+							    	<a class="catagotie-head" href="../Hukum/HukumQurban.jsp">
 										<img src="../images/s2.png"  alt="...">
 										<h3> Qurban </h3>
 									</a>
 							      	<div class="caption">
 							        	<p> Mari BerQurban </p>
 							        	<p>
-							        		<a href="blog-single.html" class="btn btn-default btn-transparent" role="button">
+							        		<a href="../Pesan/pesan_qurban.jsp" class="btn btn-default btn-transparent" role="button">
 							        			<span> Daftar </span>
 							        		</a>
 							        	</p>
@@ -83,14 +83,14 @@
 						  	<center>
 						  	<div class="col-sm-6 col-md-4">
 							    <div class="thumbnail">
-							    	<a class="catagotie-head" href="blog-single.html">
+							    	<a class="catagotie-head" href="../Hukum/HukumAqiqah.jsp">
 										<img src="../images/k4.png" alt="...">
 										<h3> Aqiqah </h3>
 									</a>
 							      	<div class="caption">
 								        <p> Mari BerAqiqah </p>
 								        <p>
-								        	<a href="blog-single.html" class="btn btn-default btn-transparent" role="button">
+								        	<a href="../Pesan/pesan_aqiqah.jsp" class="btn btn-default btn-transparent" role="button">
 								        		<span> Daftar </span>
 								        	</a>
 								        </p>
