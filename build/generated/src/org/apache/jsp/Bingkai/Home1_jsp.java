@@ -63,9 +63,9 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t<div class=\"row\">\n");
       out.write("\t\t\t\t<div class=\"col-md-12\">\n");
       out.write("\t\t\t\t\t<div id=\"slider\" class=\"nivoSlider\">\n");
-      out.write("\t\t\t\t    \t<img src=\"images/SAPI1.png\" alt=\"\" />\n");
-      out.write("\t\t\t\t    \t<img src=\"images/Sapi2.png\" alt=\"\"/>\n");
-      out.write("\t\t\t\t    \t<img src=\"images/qo1.png\" alt=\"\" />\n");
+      out.write("\t\t\t\t    \t<img src=\"../images/SAPI1.png\" alt=\"\" />\n");
+      out.write("\t\t\t\t    \t<img src=\"../images/Sapi2.png\" alt=\"\"/>\n");
+      out.write("\t\t\t\t    \t<img src=\"../images/qo1.png\" alt=\"\" />\n");
       out.write("\t\t\t\t\t</div>\t<!-- End of /.nivoslider -->\n");
       out.write("\t\t\t\t</div>\t<!-- End of /.col-md-12 -->\n");
       out.write("\t\t\t</div>\t<!-- End of /.row -->\n");
@@ -141,7 +141,7 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t  \t<div class=\"col-sm-6 col-md-4\">\n");
       out.write("\t\t\t\t\t\t\t    <div class=\"thumbnail\">\n");
       out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"blog-single.html\">\n");
-      out.write("\t\t\t\t\t\t\t\t\t\t<img src=\"images/s2.png\"  alt=\"...\">\n");
+      out.write("\t\t\t\t\t\t\t\t\t\t<img src=\"../images/s2.png\"  alt=\"...\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<h3> Qurban </h3>\n");
       out.write("\t\t\t\t\t\t\t\t\t</a>\n");
       out.write("\t\t\t\t\t\t\t      \t<div class=\"caption\">\n");
@@ -175,7 +175,7 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t  \t<div class=\"col-sm-6 col-md-4\">\n");
       out.write("\t\t\t\t\t\t\t    <div class=\"thumbnail\">\n");
       out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"blog-single.html\">\n");
-      out.write("\t\t\t\t\t\t\t\t\t\t<img src=\"images/k4.png\" alt=\"...\">\n");
+      out.write("\t\t\t\t\t\t\t\t\t\t<img src=\"../images/k4.png\" alt=\"...\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<h3> Aqiqah </h3>\n");
       out.write("\t\t\t\t\t\t\t\t\t</a>\n");
       out.write("\t\t\t\t\t\t\t      \t<div class=\"caption\">\n");
@@ -221,7 +221,7 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t<div id=\"owl-example\" class=\"owl-carousel\">\n");
       out.write("\t\t\t\t\t\t<div> </div>\n");
       out.write("\t\t\t\t\t\t<div> </div>\n");
-      out.write("\t\t\t\t\t\t<div> <img src=\"images/laz.png\" alt=\"\"></div>\n");
+      out.write("\t\t\t\t\t\t<div> <img src=\"../images/laz.png\" alt=\"\"></div>\n");
       out.write("<!--\t\t\t\t\t\t<div> <img src=\"images/company-4.png\" alt=\"\"></div>\n");
       out.write("\t\t\t\t\t\t<div> <img src=\"images/company-5.png\" alt=\"\"></div>\n");
       out.write("\t\t\t\t\t\t<div> <img src=\"images/company-6.png\" alt=\"\"></div>\n");

@@ -19,7 +19,7 @@
 					</div>	<!-- End of /.form-group -->
                                         
                         <div class="form-group">
-			<label for="inputname" class="col-sm-2 control-label">Jenis Kelamin</label>
+			<label for="inputname" class="col-sm-2 control-label">Pilihan Qurban</label>
                         <div class="col-sm-10">
                             <div class="select-box">
                                     <label for="select-box1" class="label select-box1"><span class="label-desc"> Pilih Jenis Kelamin </span></label>

@@ -22,9 +22,9 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div id="slider" class="nivoSlider">
-				    	<img src="images/SAPI1.png" alt="" />
-				    	<img src="images/Sapi2.png" alt=""/>
-				    	<img src="images/qo1.png" alt="" />
+				    	<img src="../images/SAPI1.png" alt="" />
+				    	<img src="../images/Sapi2.png" alt=""/>
+				    	<img src="../images/qo1.png" alt="" />
 					</div>	<!-- End of /.nivoslider -->
 				</div>	<!-- End of /.col-md-12 -->
 			</div>	<!-- End of /.row -->
@@ -100,7 +100,7 @@
 						  	<div class="col-sm-6 col-md-4">
 							    <div class="thumbnail">
 							    	<a class="catagotie-head" href="blog-single.html">
-										<img src="images/s2.png"  alt="...">
+										<img src="../images/s2.png"  alt="...">
 										<h3> Qurban </h3>
 									</a>
 							      	<div class="caption">
@@ -134,7 +134,7 @@
 						  	<div class="col-sm-6 col-md-4">
 							    <div class="thumbnail">
 							    	<a class="catagotie-head" href="blog-single.html">
-										<img src="images/k4.png" alt="...">
+										<img src="../images/k4.png" alt="...">
 										<h3> Aqiqah </h3>
 									</a>
 							      	<div class="caption">
@@ -180,7 +180,7 @@
 					<div id="owl-example" class="owl-carousel">
 						<div> </div>
 						<div> </div>
-						<div> <img src="images/laz.png" alt=""></div>
+						<div> <img src="../images/laz.png" alt=""></div>
 <!--						<div> <img src="images/company-4.png" alt=""></div>
 						<div> <img src="images/company-5.png" alt=""></div>
 						<div> <img src="images/company-6.png" alt=""></div>
