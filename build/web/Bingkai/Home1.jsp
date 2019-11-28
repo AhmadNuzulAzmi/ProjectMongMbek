@@ -106,7 +106,7 @@
 							      	<div class="caption">
 							        	<p> Mari BerQurban </p>
 							        	<p>
-							        		<a href="blog-single.html" class="btn btn-default btn-transparent" role="button">
+							        		<a href="../Pesan/pesan_qurban.jsp" class="btn btn-default btn-transparent" role="button">
 							        			<span> Daftar </span>
 							        		</a>
 							        	</p>
