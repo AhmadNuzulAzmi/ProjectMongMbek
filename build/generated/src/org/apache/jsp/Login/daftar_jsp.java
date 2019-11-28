@@ -63,7 +63,12 @@ public final class daftar_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t</div>\n");
       out.write("\t\t\t\t\t</div>\t<!-- End of /.form-group -->\n");
       out.write("\t\t\t\t\t<div class=\"form-group\">\n");
-      out.write("\t\t\t\t\t<label for=\"inputEmail\" class=\"col-sm-2 control-label\">Jenis Kelamin</label>\n");
+      out.write("                                            <div class=\"select-box\">\n");
+      out.write("                                                <label for=\"select-box1\" class=\"label select-box1\"><span class=\"label-desc\"> Jenis Kelamin </span></label>\n");
+      out.write("                                                <select id=\"select-box1\" class=\"select\">\n");
+      out.write("                                                    <option value=\"lk\"> Laki-laki </option>\n");
+      out.write("                                                    <option value=\"pr\"> Perempuan </option>\n");
+      out.write("                                                </select>\n");
       out.write("\t\t\t\t\t<div class=\"col-sm-10\">\n");
       out.write("                                            <input type=\"email\" class=\"form-control\" id=\"inputEmail\" placeholder=\"Jenis Kelamin\" name=\"jk\">\n");
       out.write("\t\t\t\t\t\t\t    </div>\n");
