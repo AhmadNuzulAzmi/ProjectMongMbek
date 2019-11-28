@@ -49,41 +49,40 @@
                                                     </li>
                                                     </ul>
                                     
-					            	<div class="blog-post-tag">
-						            	<div class="block">
-						            		<i class="fa fa-clock-o"></i>
-						            		<p>12 Jan,2014</p>
-						            	</div>
-						            	<div class="block">
-						            		<i class="fa fa-user"></i>
-						            		<p>Admin</p>
-						            	</div>
-						            	<div class="block">
-						            		<i class="fa fa-tags"></i>
-						            		<p>
-						            			<a href="">Food Culture</a>,
-						            			<a href="">Green Items</a>
-						            		</p>
-						            	</div>
-						            	<div class="block">
-						            		<i class="fa fa-comments"></i>
-						            		<p>3 Comments</p>
-						            	</div>
-						            </div>
-						            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nostrum inventore debitis accusantium natus praesentium enim sequi culpa provident dignissimos veniam deserunt voluptatibus fugit delectus pariatur numquam optio quidem illo. Obcaecati, placeat, enim accusantium sunt inventore sed dolorum molestiae ab consequuntur voluptatem dolor necessitatibus reprehenderit adipisci explicabo hic quibusdam pariatur!</p>
-						            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren sed diam voluptua.</p>
-						            
-						            <blockquote>
-					                    <p>Lorem ipsum dolor sit amet, in pri offendit ocurreret. Vix sumo ferri an. pfs adodio fugit delenit ut qui. Omittam suscipiantur ex  vel,ex audiam  intellegat gfIn labitur discere eos, nam an feugiat voluptua.</p>
-										<div class="block-qoute-by">
-					                        - John Doe , Author
-					                    </div>
-					                </blockquote>
-					                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde expedita neque excepturi iste cumque! Dolorem, ipsum, totam, culpa ullam dolores qui possimus corrupti suscipit recusandae quam magnam quis eaque incidunt!</p>
-					            </div>
+                                    <ul class="blog-zone">
+					    <li>
+					        <div class="blog-icon">
+					        	<i class="fa  fa-pencil"></i>
 					        </div>
-					    </li>
-					</ul>	<!-- End of /.blog-zone -->
+
+                                                        <div class="blog-box">
+					        	<img src="../images/sapi3.jpg" alt="">
+					            
+					            <div class="blog-post-body clearfix">
+						            <a href="">
+					            		<h2>Potret Sapi yang sedang lahap makan </h2>
+						            </a>
+                                                    </li>
+                                                    </ul>
+                                    
+                                    
+                                    
+                                    <ul class="blog-zone">
+					    <li>
+					        <div class="blog-icon">
+					        	<i class="fa  fa-pencil"></i>
+					        </div>
+                                    <div class="blog-box">
+					        	<iframe src="https://www.youtube.com/embed/3C4T4k2aaFY" frameborder="0" allowfullscreen="" width="100%" height="400px"></iframe>
+					            
+					            <div class="blog-post-body clearfix">
+					            	<a href="blog-single.html">
+					            		<h2>Youtube Pemberian Hewan Qurban Dari Laznaz </h2>
+					            	</a>
+                                                        </li>
+                                                        </ul>
+                                    
+					            		<!-- End of /.blog-zone -->
         </section>
     </body>
     <jsp:include page="../Bingkai/Footer.html"></jsp:include>
