@@ -16,6 +16,43 @@
     <body>
          <section id="blog">
 		<div class="container">
+                    <section id="blog">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9 clearfix">
+					<ul class="blog-zone">
+					    <li>
+					        <div class="blog-icon">
+					        	<i class="fa  fa-pencil"></i>
+					        </div>
+                                                
+                                                 
+<!--					        <div class="blog-box">
+					        	<img src="../images/sapi1.jpg" alt="">
+					            
+					            <div class="blog-post-body clearfix">
+						            <a href="">
+					            		<h2>Sapi Lari</h2>
+						            </a>-->
+                                                        </li>
+                                                        </ul>                    
+
+                                                            
+                                    <ul class="blog-zone">
+					    <li>
+					        <div class="blog-icon">
+					        	<i class="fa  fa-pencil"></i>
+					        </div>
+                                    <div class="blog-box">
+					        	<iframe src="https://www.youtube.com/embed/3F1KGb20Khc" frameborder="0" allowfullscreen="" width="100%" height="400px"></iframe>
+					            
+					            <div class="blog-post-body clearfix">
+					            	<a href="blog-single.html">
+					            		<h2>Youtube Video Hukum BerQurban </h2>
+					            	</a>
+                                                        </li>
+                                                        </ul>
+                                    
                     <div class="leave-comment">
                         <p> <h3> Fiqih Qurban </h3>
                             Berkurban merupakan bagian dari Syariat Islam yang sudah ada semenjak manusia ada. Ketika putra-putra nabi Adam AS diperintahkan berqurban. Maka Allah SWT menerima qurban yang baik dan diiringi ketakwaan dan menolak qurban yang buruk. Allah SWT berfirman:&nbsp;
@@ -210,10 +247,14 @@
                             Berqurban (udhiyah) adalah salah satu bentuk pendekatan diri kepada Allah dengan mengorbankan sebagian kecil hartanya, untuk dibelikan binatang ternak. Menyembelih binatang tersebut dengan persyaratan yang sudah ditentukan. Sedangkan berkorban (tadhiyah) mempunyai arti yang lebih luas yaitu berkorban dengan harta, jiwa, pikiran dan apa saja untuk tegaknya Islam. Dalam suasana dimana umat Islam di Indonesia sedang terkena musibah banjir, dan mereka banyak yang menjadi korban. Maka musibah ini harus menjadi pelajaran berarti bagi umat Islam. Apakah musibah ini disebabkan karena mereka menjauhi Allah SWT dan menjauhi ajaran-Nya? Yang pasti, musibah ini harus lebih mendekatkan umat Islam kepada Allah (taqqarub ilallah). Melaksanakan perintah-Nya dan menjauhi larangan-Nya. Dan yang tidak tertimpa musibah banjir ini dituntut untuk memberikan kepeduliannya dengan cara berkorban dan memberikan bantuan kepada mereka yang terkena musibah. Dan di antara bentuk pendekatan diri kepada Allah dan bentuk pengorbanan kita dengan melakukan qurban penyembelihan sapi dan kambing pada hari Raya ‘Idul Adha dan Hari Tasyrik. Semoga Allah menerima qurban kita dan meringankan musibah ini, dan yang lebih penting lagi menyelamatkan kita dari api neraka.&nbsp;
                             <br>
                             </p>
-                    </div>
-                    </div>
+                            </div>
+                </div>
          </section>
-<!--        
+        
+                
+                    
+             
+       
         </div>
     </body>
     <jsp:include page="Footer.html"></jsp:include>
