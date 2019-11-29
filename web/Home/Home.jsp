@@ -104,7 +104,7 @@
 										<h3> Qurban </h3>
 									</a>
 							      	<div class="caption">
-							        	<p> Mari BerQurban </p>
+							        	<p> Hukum BerQurban </p>
 							      	</div>	<!-- End of /.caption -->
 							    </div>	<!-- End of /.thumbnail -->
 						  	</div>	<!-- End of /.col-sm-6 col-md-4 -->
@@ -133,7 +133,7 @@
 										<h3> Aqiqah </h3>
 									</a>
 							      	<div class="caption">
-								        <p> Mari BerAqiqah </p>
+								        <p> Hukum Aqiqah </p>
 								    </div>	<!-- End of /.caption -->
 							    </div>	<!-- End of /.thumbnail -->
 						  	</div>	<!-- End of /.col-sm-6 col-md-4 -->
