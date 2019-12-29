@@ -145,7 +145,7 @@ public final class Home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t\t\t\t\t<h3> Qurban </h3>\n");
       out.write("\t\t\t\t\t\t\t\t\t</a>\n");
       out.write("\t\t\t\t\t\t\t      \t<div class=\"caption\">\n");
-      out.write("\t\t\t\t\t\t\t        \t<p> Mari BerQurban </p>\n");
+      out.write("\t\t\t\t\t\t\t        \t<p> Hukum BerQurban </p>\n");
       out.write("\t\t\t\t\t\t\t      \t</div>\t<!-- End of /.caption -->\n");
       out.write("\t\t\t\t\t\t\t    </div>\t<!-- End of /.thumbnail -->\n");
       out.write("\t\t\t\t\t\t  \t</div>\t<!-- End of /.col-sm-6 col-md-4 -->\n");
@@ -174,7 +174,7 @@ public final class Home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t\t\t\t\t<h3> Aqiqah </h3>\n");
       out.write("\t\t\t\t\t\t\t\t\t</a>\n");
       out.write("\t\t\t\t\t\t\t      \t<div class=\"caption\">\n");
-      out.write("\t\t\t\t\t\t\t\t        <p> Mari BerAqiqah </p>\n");
+      out.write("\t\t\t\t\t\t\t\t        <p> Hukum Aqiqah </p>\n");
       out.write("\t\t\t\t\t\t\t\t    </div>\t<!-- End of /.caption -->\n");
       out.write("\t\t\t\t\t\t\t    </div>\t<!-- End of /.thumbnail -->\n");
       out.write("\t\t\t\t\t\t  \t</div>\t<!-- End of /.col-sm-6 col-md-4 -->\n");
