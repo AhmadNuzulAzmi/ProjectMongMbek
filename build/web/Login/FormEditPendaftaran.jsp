@@ -32,7 +32,7 @@
                 <td>:</td>
                 <td><%=pen.getId()%></td>
             </tr> 
-            <input type="text" name="id" value=<%=pen.getId()%>>
+            <input type="hidden" name="id" value=<%=pen.getId()%>>
             <tr>
                 <td>Nama Pendaftar</td>
                 <td>:</td>

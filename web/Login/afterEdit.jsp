@@ -53,7 +53,7 @@
             </tr>
         </table>
             <br/>
-                Klik<b> Lihat</b> Untuk melihat, <a href="/Login/AddSukses.jsp">Lihat</a>
+                Klik<b> Lihat</b> Untuk melihat, <a href="Login/DaftarPendaftar.jsp">Lihat</a>
             </center>
     </body>
 </html>
