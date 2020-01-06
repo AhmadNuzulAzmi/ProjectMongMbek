@@ -13,7 +13,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-    <center>
+    <center style="background-color: #a6f77b">
         <table>
             <tr>
                 <td><%@include file="Form_Login.html" %></td>

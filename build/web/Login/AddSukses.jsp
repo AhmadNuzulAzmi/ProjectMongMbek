@@ -17,21 +17,17 @@
       sup = (mong.Pendaftaran)request.getAttribute("dataPen");
     %>
     <body>
+    <center>
         <h1 align="center"> Berhasil Ditambahkan </h1>
-<!--        <hr/>
+      <hr/>
         <table>
-            <tr>
-                <td>Id Pendaftar</td>
-                <td>:</td>
-                <td><%=sup.getId()%></td>
-            </tr>
             <tr>
                 <td>Nama Pendaftar</td>
                 <td>:</td>
                 <td><%=sup.getNamaPendaftar()%></td>
             </tr>
             <tr>
-                <td>JK Pendaftar</td>
+                <td>Jenis Kelamin</td>
                 <td>:</td>
                 <td><%=sup.getJkPendaftar()%></td>
             </tr>
@@ -57,7 +53,8 @@
             </tr>
         </table>
             <br/>
-            <b>Berhasil</b>Ditambahkan, <a href="DaftarSupplier.jsp">Lihat</a>-->
+            <b>Berhasil</b>Ditambahkan, <a href="DaftarPendaftar.jsp">Lihat</a>
+            </center>
     </body>
     <jsp:include page="../Bingkai/Footer.html"></jsp:include>
 </html>

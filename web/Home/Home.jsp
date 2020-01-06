@@ -36,7 +36,7 @@
 	<!-- FEATURES Start
     ================================================== -->
 
-	<!-- <section id="features">
+	 <section id="features">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
@@ -168,9 +168,8 @@
 						</div>
 					</div>	<!-- End of /.block -->
 					<div id="owl-example" class="owl-carousel">
-						<div> </div>
-						<div> </div>
-						<div> <img src="../images/laz.png" alt=""></div>
+                                                <center>
+						<div> <img src="../images/laz.png" alt=""></div></center>
 <!--						<div> <img src="images/company-4.png" alt=""></div>
 						<div> <img src="images/company-5.png" alt=""></div>
 						<div> <img src="images/company-6.png" alt=""></div>

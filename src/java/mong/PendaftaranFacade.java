@@ -244,19 +244,19 @@ public class PendaftaranFacade {
         }
         return sukses;
     }
-//    public Pendaftaran[]getKategori(String Jenis){
-//        Kategori[]dataKategori = null;
-//        Kategori tempKategori = null;
-//        ArrayList listKategori = new ArrayList();
+//    public Pendaftaran[]getPendaftaran(String Jenis){
+//        Pendaftaran[]dataPendaftaran = null;
+//        Pendaftaran tempPendaftaran = null;
+//        ArrayList listPendaftaran = new ArrayList();
 //        
 //        Connection con = null;
 //        Statement stmt = null;
 //        ResultSet rs = null;
 //        
-//        String dbUrl = "jdbc:mysql://localhost:3306/db_azmi";
+//        String dbUrl = "jdbc:mysql://localhost:3306/mongmbek";
 //        String pwd = "";
 //        String login = "root";
-//        String sql = "Select * from barang where kategori_barang='"+Jenis+"'";
+//        String sql = "Select * from pendaftaran where kategori_barang='"+Jenis+"'";
 //        
 //        try{
 //            Class.forName("com.mysql.jdbc.Driver");

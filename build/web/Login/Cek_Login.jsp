@@ -1,6 +1,6 @@
 <%-- 
-    Document   : ceklogin
-    Created on : Dec 28, 2019, 1:12:15 PM
+    Document   : Cek_Login
+    Created on : Dec 30, 2019, 8:10:00 PM
     Author     : ACER-NITRO
 --%>
 
@@ -19,10 +19,11 @@
     ResultSet rs;
     rs = st.executeQuery("select * from pendaftaran where username='" + userid + "' and password='" + pwd + "'");
     if (rs.next()) {
-        response.sendRedirect("Home1.jsp");
+        response.sendRedirect("../Home/Home1.jsp");
     } else {
+        response.sendRedirect("../Login/404.jsp");
 //        out.println("welcome " + userid);
 //        out.println("password " + pwd);
-        out.println("Invalid password <a href='../Home/Home.jsp'>try again</a>");
+//        out.println("Invalid password <a href='../Home/404.jsp'>try again</a>");
     }
 %>

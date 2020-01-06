@@ -1,13 +1,14 @@
 <%-- 
-    Document   : HukumQurban
-    Created on : Nov 22, 2019, 7:51:29 AM
+    Document   : HukumAqiqah1
+    Created on : Jan 4, 2020, 6:47:16 PM
     Author     : ACER-NITRO
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    <jsp:include page="header.html"></jsp:include>
+    <jsp:include page="../Bingkai/header1.html"></jsp:include>
+    
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
@@ -15,77 +16,143 @@
     <body>
          <section id="blog">
 		<div class="container">
+                    <section id="blog">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9 clearfix">
+					<ul class="blog-zone">
+					    <li>
+					        <div class="blog-icon">
+					        	<i class="fa  fa-pencil"></i>
+					        </div>
+                                                
+                                                 
+<!--					        <div class="blog-box">-->
+<!--					        	<img src="../images/sapi1.jpg" alt="">-->
+					            
+<!--					            <div class="blog-post-body clearfix">
+						            <a href="">
+					            		<h2>Sapi Lari</h2>-->
+						            </a>
+                                                        </li>
+                                                        </ul>                    
+
+                                                            
+                                    <ul class="blog-zone">
+					    <li>
+					        <div class="blog-icon">
+					        	<i class="fa  fa-pencil"></i>
+					        </div>
+                                    <div class="blog-box">
+					        	<iframe src="https://www.youtube.com/embed/bxjIRhzeGCw" frameborder="0" allowfullscreen="" width="100%" height="400px"></iframe>
+					            
+					            <div class="blog-post-body clearfix">
+					            	<a href="blog-single.html">
+					            		<h2>Youtube Video Hukum Aqiqah </h2>
+					            	</a>
+                                                        </li>
+                                                        </ul>
+                                    
                     <div class="leave-comment">
-                        <p> <h3> Fiqih Qurban </h3>
-                            Berkurban merupakan bagian dari Syariat Islam yang sudah ada semenjak manusia ada. Ketika putra-putra nabi Adam AS diperintahkan berqurban. Maka Allah SWT menerima qurban yang baik dan diiringi ketakwaan dan menolak qurban yang buruk. Allah SWT berfirman:&nbsp;
+                        <p> <h3> Ahkamul Aqiqah </h3>
+                        <br>
+                        <b>Pengertian Aqiqah</b>
+                        <br>
+                        <br>
+                            Imam Ibnul Qayyim rahimahullah dalam kitabnya “Tuhfatul Maudud” hal.25-26, mengatakan bahwa : Imam Jauhari berkata : Aqiqah ialah “Menyembelih hewan pada hari ketujuhnya dan mencukur rambutnya.” Selanjutnya Ibnu Qayyim rahimahullah berkata : “Dari penjelasan ini jelaslah bahwa aqiqah itu disebut demikian karena mengandung dua unsur diatas dan ini lebih utama.”
                             <br>
                             <br>
-                            “Ceritakanlah kepada mereka kisah kedua putra Adam (Habil dan Qabil) menurut yang sebenarnya, ketika keduanya mempersembahkan qurban, maka diterima dari salah seorang dari mereka berdua (Habil) dan tidak diterima dari yang lain (Qabil). Ia berkata (Qabil): “Aku pasti membunuhmu!” Berkata Habil: “Sesungguhnya Allah hanya menerima (korban) dari orang-orang yang bertaqwa”&nbsp;(QS Al-Maaidah 27).&nbsp;
+                            Imam Ahmad rahimahullah dan jumhur ulama berpendapat bahwa apabila ditinjau dari segi syar’i maka yang dimaksud dengan aqiqah adalah makna berkurban atau menyembelih (An-Nasikah).
                             <br>
                             <br>
-                            Qurban lain yang diceritakan dalam Al-Qur’an adalah qurban keluarga Ibrahim AS, saat beliau diperintahkan Allah SWT untuk mengurbankan anaknya, Ismail AS. Disebutkan dalam surat As-Shaaffaat 102: “Maka tatkala anak itu sampai (pada umur sanggup) berusaha bersama-sama Ibrahim, Ibrahim berkata: “Hai anakku sesungguhnya aku melihat dalam mimpi bahwa aku menyembelihmu. Maka pikirkanlah apa pendapatmu!” Ia menjawab: “Hai bapakku, kerjakanlah apa yang diperintahkan kepadamu; insya Allah kamu akan mendapatiku termasuk orang-orang yang sabar”. Kemudian qurban ditetapkan oleh Rasulullah SAW sebagai bagian dari Syariah Islam, syiar dan ibadah kepada Allah SWT sebagai rasa syukur atas nikmat kehidupan.&nbsp;
+                            
+                            <b>Dalil-dalil Syar'i Tentang Aqiqah</b>
                             <br>
                             <br>
-                            <b>Disyariatkannya Qurban</b>
+                            عَنْ سَلْمَانَ بْنِ عَامِرٍ الضَّبِيّ قَالَ: سَمِعْتُ رَسُوْلَ اللهِ ص يَقُوْلُ: مَعَ اْلغُلاَمِ عَقِيْقَةٌ فَاَهْرِيْقُوْا عَنْهُ دَمًا وَ اَمِيْطُوْا عَنْهُ اْلاَذَى
+
                             <br>
                             <br>
-                            Disyariatkannya qurban sebagai simbol pengorbanan hamba kepada Allah SWT, bentuk ketaatan kepada-Nya dan rasa syukur atas nikmat kehidupan yang diberikan Allah SWT kepada hamba-Nya. Hubungan rasa syukur atas nikmat kehidupan dengan berqurban yang berarti menyembelih binatang dapat dilihat dari dua sisi.&nbsp;
+                            Dari Salman bin ‘Amir Ad-Dhabiy, dia berkata : Rasulullah bersabda : “Aqiqah dilaksanakan karena kelahiran bayi, maka sembelihlah hewan dan hilangkanlah semua gangguan darinya.” [Shahih Hadits Riwayat Bukhari (5472), untuk lebih lengkapnya lihat Fathul Bari (9/590-592), dan Irwaul Ghalil (1171), Syaikh Albani]
+
                             <br>
                             <br>
-                            Pertama, bahwa penyembelihan binatang tersebut merupakan sarana memperluas hubungan baik terhadap kerabat, tetangga, tamu dan saudara sesama muslim. Semua itu merupakan fenomena kegembiraan dan rasa syukur atas nikmat Allah SWT kepada manusia, dan inilah bentuk pengungkapan nikmat yang dianjurkan dalam Islam:&nbsp;
+                            Makna menghilangkan gangguan adalah mencukur rambut bayi atau menghilangkan semua gangguan yang ada [Fathul Bari (9/593) dan Nailul Authar (5/35), Cetakan Darul Kutub Al-‘Ilmiyah, pent]
+
+
                             <br>
                             <br>
-                            “Dan terhadap nikmat Tuhanmu maka hendaklah kamu menyebut-nyebutnya (dengan bersyukur)”&nbsp;(QS Ad-Dhuhaa 11).&nbsp;
+                            أَنَّ عَائِشَةَ أَخْبَرَتْهَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَهُمْ عَنْ الْغُلَامِ شَاتَانِ مُكَافِئَتَانِ وَعَنْ الْجَارِيَةِ شَاةٌ
+
+
                             <br>
                             <br>
-                            Kedua, sebagai bentuk pembenaran terhadap apa yang datang dari Allah SWT. Allah menciptakan binatang ternak itu adalah nikmat yang diperuntukkan bagi manusia, dan Allah mengizinkan manusia untuk menyembelih binatang ternak tersebut sebagai makanan bagi mereka. Bahkan penyembelihan ini merupakan salah satu bentuk pendekatan diri kepada Allah SWT.&nbsp;
+                            Dari Aisyah dia berkata : Rasulullah bersabda : “Bayi laki-laki diaqiqahi dengan dua kambing yang sama dan bayi perempuan satu kambing.” [Shahih, Hadits Riwayat Ahmad (2/31, 158, 251), Tirmidzi (1513), Ibnu Majah (3163), dengan sanad hasan]
+
                             <br>
                             <br>
-                            Berqurban merupakan ibadah yang paling dicintai Allah SWT di hari Nahr, sebagaimana disebutkan dalam hadits riwayat At-Tirmidzi dari ‘Aisyah RA. bahwa Nabi SAW bersabda:&nbsp;
+                            <b> HUKUM-HUKUM SEPUTAR AQIQAH </b>
+                            <br>
+                            <br>HUKUM AQIQAH SUNNAH
+                            <br> Al-Allamah Imam Asy-Syaukhani rahimahullah berkata dalam Nailul Authar (6/213) : “Jumhur ulama berdalil atas sunnahnya aqiqah dengan hadist Nabi : “….berdasarkan hadist no.5 dari ‘Amir bin Syu’aib.”
+
                             <br>
                             <br>
-                            “Tidaklah anak Adam beramal di hari Nahr yang paling dicintai Allah melebihi menumpahkan darah (berqurban). Qurban itu akan datang di hari Kiamat dengan tanduk, bulu dan kukunya. Dan sesungguhnya darah akan cepat sampai di suatu tempat sebelum darah tersebut menetes ke bumi. Maka perbaikilah jiwa dengan berqurban”.
+                            BANTAHAN TERHADAP ORANG YANG MENGINGKARI DAN MEMBID’AHKAN AQIQAH
+                            <br>
+                            Ibnul Mundzir rahimahullah membantah mereka dengan mengatakan bahwa : “Orang-orang ‘Aqlaniyyun (orang-orang yang mengukur kebenaran dengan akalnya, saat ini seperti sekelompok orang yang menamakan sebagai kaum Islam Liberal, pen) mengingkari sunnahnya aqiqah, pendapat mereka ini jelas menyimpang jauh dari hadist-hadist yang tsabit (shahih) dari Rasulullah karena berdalih dengan hujjah yang lebih lemah dari sarang laba-laba.” [Sebagaimana dinukil oleh Ibnu Qayyim al-Jauziyah dalam kitabnya “Tuhfatul Maudud” hal.20, dan Ibnu Hajar al-Asqalani dalam “Fathul Bari” (9/588)].
+
+
                             <br>
                             <br>
-                            <b>Definisi Qurban</b>
+                            WAKTU AQIQAH PADA HARI KETUJUH
+
                             <br>
                             <br>
-                            Kata qurban yang kita pahami, berasal dari bahasa Arab, artinya pendekatan diri, sedangkan maksudnya adalah menyembelih binatang ternak sebagai sarana pendekatan diri kepada Allah. Arti ini dikenal dalam istilah Islam sebagai udhiyah. Udhiyah secara bahasa mengandung dua pengertian, yaitu kambing yang disembelih waktu Dhuha dan seterusnya, dan kambing yang disembelih di hari ‘Idul Adha. Adapun makna secara istilah, yaitu binatang ternak yang disembelih di hari-hari Nahr dengan niat mendekatkan diri (taqarruban) kepada Allah dengan syarat-syarat tertentu (Syarh Minhaj).&nbsp;
+                            Berdasarkan hadist no.2 dari Samurah bin Jundab. Para ulama berpendapat dan sepakat bahwa waktu aqiqah yang paling utama adalah hari ketujuh dari hari kelahirannya. Namun mereka berselisih pendapat tentang bolehnya melaksanakan aqiqah sebelum hari ketujuh atau sesudahnya. Al-Hafidz Ibnu Hajar rahimahullah berkata dalam kitabnya “Fathul Bari” (9/594) :
+
+
                             <br>
                             <br>
-                            <b>Hukum Qurban</b>
+                            “Sabda Rasulullah pada perkataan ‘pada hari ketujuh kelahirannya’ (hadist no.2), ini sebagai dalil bagi orang yang berpendapat bahwa waktu aqiqah itu adanya pada hari ketujuh dan orang yang melaksanakannya sebelum hari ketujuh berarti tidak melaksanakan aqiqah tepat pada waktunya. bahwasannya syariat aqiqah akan gugur setelah lewat hari ketujuh. Dan ini merupakan pendapat Imam Malik. Beliau berkata : “Kalau bayi itu meninggal sebelum hari ketujuh maka gugurlah sunnah aqiqah bagi kedua orang tuanya.”
+
                             <br>
                             <br>
-                            Hukum qurban menurut jumhur ulama adalah sunnah muaqqadah sedang menurut mazhab Abu Hanifah adalah wajib. Allah SWT berfirman:&nbsp;
+                            Sebagian membolehkan melaksanakannya sebelum hari ketujuh. Pendapat ini dinukil dari Ibnu Qayyim al-Jauziyah dalam kitabnya “Tuhfatul Maudud” hal.35. Sebagian lagi berpendapat boleh dilaksanakan setelah hari ketujuh. Pendapat ini dinukil dari Ibnu Hazm dalam kitabnya “al-Muhalla” 7/527.
+
+
                             <br>
                             <br>
-                            “Maka dirikanlah shalat karena Tuhanmu dan berkorbanlah”&nbsp;(QS Al-Kautsaar: 2).&nbsp;
+                            BERSEDEKAH DENGAN PERAK SEBERAT TIMBANGAN RAMBUT
+                            <br>
+                            Syaikh Ibrahim bin Muhammad bin Salim bin Dhoyyan berkata : “Dan disunnahkan mencukur rambut bayi, bersedekah dengan perak seberat timbangan rambutnya dan diberi nama pada hari ketujuhnya. Masih ada ulama yang menerangkan tentang sunnahnya amalan tersebut (bersedekah dengan perak), seperti : al-Hafidz Ibnu Hajar al-Asqalani, Imam Ahmad, dan lain-lain.”
+
                             <br>
                             <br>
-                            Rasulullah SAW bersabda:&nbsp;
+                            AQIQAH UNTUK ANAK LAKI-LAKI DUA KAMBING DAN PEREMPUAN SATU KAMBING
+                            <br>
+                            Berdasarkan hadist no.3 dan no.5 dari Aisyah dan ‘Amr bin Syu’aib. “Setelah menyebutkan dua hadist diatas, al-Hafidz Ibnu Hajar berkata dalam “Fathul Bari” (9/592) : “Semua hadist yang semakna dengan ini menjadi hujjah bagi jumhur ulama dalam membedakan antara bayi laki-laki dan bayi perempuan dalam masalah aqiqah.”
+
                             <br>
                             <br>
-                            “Siapa yang memiliki kelapangan dan tidak berqurban, maka jangan dekati tempat shalat kami”&nbsp;(HR Ahmad, Ibnu Majah dan Al-Hakim).&nbsp;
+                            <b>BOLEH AQIQAH BAYI LAKI-LAKI DENGAN SATU KAMBING</b>
+                            <br>Berdasarkan hadist no. 4 dari Ibnu Abbas. Sebagian ulama berpendapat boleh mengaqiqahi bayi laki-laki dengan satu kambing yang dinukil dari perkataan Abdullah bin ‘Umar, ‘Urwah bin Zubair, Imam Malik dan lain-lain mereka semua berdalil dengan hadist Ibnu Abbas diatas.
+
+
                             <br>
                             <br>
-                            Dalam hadits lain:&nbsp;“Jika kalian melihat awal bulan Zulhijah, dan seseorang di antara kalian hendak berqurban, maka tahanlah rambut dan kukunya (jangan digunting)”&nbsp;(HR Muslim).&nbsp;
+                            <b>BACAAN KETIKA MENYEMBELIH KAMBING</b>
                             <br>
                             <br>
-                            Bagi seorang muslim atau keluarga muslim yang mampu dan memiliki kemudahan, dia sangat dianjurkan untuk berqurban. Jika tidak melakukannya, menurut pendapat Abu Hanifah, ia berdosa. Dan menurut pendapat jumhur ulama dia tidak mendapatkan keutamaan pahala sunnah.&nbsp;
+                            فَكُلُوا مِمَّا أَمْسَكْنَ عَلَيْكُمْ وَاذْكُرُوا اسْمَ اللَّ
+
+
                             <br>
                             <br>
-                            <b>Binatang yang Boleh Diqurbankan</b>
+                            “Maka makanlah dari apa yang ditangkapnya untukmu dan sebutlah nama Allah…” [Al-Maidah/5 : 4]
+
                             <br>
-                            <br>
-                            Adapun binatang yang boleh digunakan untuk berqurban adalah binatang ternak (Al-An’aam), unta, sapi dan kambing, jantan atau betina. Sedangkan binatang selain itu seperti burung, ayam dll tidak boleh dijadikan binatang qurban. Allah SWT berfirman:&nbsp;
-                            <br>
-                            <br>
-                            “Dan bagi tiap-tiap umat telah Kami syariatkan penyembelihan (qurban), supaya mereka menyebut nama Allah terhadap binatang ternak yang telah direzkikan Allah kepada mereka”&nbsp;(QS Al-Hajj 34).&nbsp;
-                            <br>
-                            <br>
-                            Kambing untuk satu orang, boleh juga untuk satu keluarga. Karena Rasulullah SAW menyembelih dua kambing, satu untuk beliau dan keluarganya dan satu lagi untuk beliau dan umatnya. Sedangkan unta dan sapi dapat digunakan untuk tujuh orang, baik dalam satu keluarga atau tidak, sesuai dengan hadits Rasulullah SAW:&nbsp;
-                            <br>
-                            <br>
+<!--                            <br>
                             Dari Jabir bin Abdullah, berkata “Kami berqurban bersama Rasulullah SAW di tahun Hudaibiyah, unta untuk tujuh orang dan sapi untuk tujuh orang”&nbsp;(HR Muslim).&nbsp;
                             <br>
                             <br>
@@ -205,7 +272,7 @@
                             <br>
                             Sesungguhnya Allah berfirman (dalam hadits Qudsi):&nbsp;“Siapa yang memerangi kekasih-Ku, niscaya aku telah umumkan perang padanya. Tidaklah seorang hamba mendekatkan diri pada-Ku (taqarrub) dengan sesuatu yang paling Aku cintai, dengan sesuatu yang aku wajibkan. Dan jika hamba-Ku senantiasa mendekatkan diri kepada-Ku dengan yang sunnah, maka Aku mencintainya. Jika Aku telah mencintainya, maka Aku menjadi pendengarannya dimana ia mendengar, menjadi penglihatannya dimana ia melihat, tangannya dimana ia memukul dan kakinya, dimana ia berjalan. Jika ia meminta, niscaya Aku beri dan jika ia minta perlindungan, maka Aku lindungi”&nbsp;(HR Bukhari).&nbsp;
                             <br>
-                            <br>
+                            <br>-->
                             Berqurban (udhiyah) adalah salah satu bentuk pendekatan diri kepada Allah dengan mengorbankan sebagian kecil hartanya, untuk dibelikan binatang ternak. Menyembelih binatang tersebut dengan persyaratan yang sudah ditentukan. Sedangkan berkorban (tadhiyah) mempunyai arti yang lebih luas yaitu berkorban dengan harta, jiwa, pikiran dan apa saja untuk tegaknya Islam. Dalam suasana dimana umat Islam di Indonesia sedang terkena musibah banjir, dan mereka banyak yang menjadi korban. Maka musibah ini harus menjadi pelajaran berarti bagi umat Islam. Apakah musibah ini disebabkan karena mereka menjauhi Allah SWT dan menjauhi ajaran-Nya? Yang pasti, musibah ini harus lebih mendekatkan umat Islam kepada Allah (taqqarub ilallah). Melaksanakan perintah-Nya dan menjauhi larangan-Nya. Dan yang tidak tertimpa musibah banjir ini dituntut untuk memberikan kepeduliannya dengan cara berkorban dan memberikan bantuan kepada mereka yang terkena musibah. Dan di antara bentuk pendekatan diri kepada Allah dan bentuk pengorbanan kita dengan melakukan qurban penyembelihan sapi dan kambing pada hari Raya ‘Idul Adha dan Hari Tasyrik. Semoga Allah menerima qurban kita dan meringankan musibah ini, dan yang lebih penting lagi menyelamatkan kita dari api neraka.&nbsp;
                             <br>
                             </p>
@@ -248,6 +315,7 @@
 						    	</div>
                                                         </div>
                                                         </section>-->
+                
         </div>
     </body>
     <jsp:include page="Footer.html"></jsp:include>

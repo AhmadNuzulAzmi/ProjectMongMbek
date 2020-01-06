@@ -46,6 +46,9 @@ public final class AddSukses_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\n");
       out.write("<!DOCTYPE html>\n");
       out.write("<html>\n");
+      out.write("    ");
+      org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "../Bingkai/header.html", out, false);
+      out.write("\n");
       out.write("    <head>\n");
       out.write("        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n");
       out.write("        <title>JSP Page</title>\n");
@@ -66,16 +69,10 @@ public final class AddSukses_jsp extends org.apache.jasper.runtime.HttpJspBase
     
       out.write("\n");
       out.write("    <body>\n");
-      out.write("        <h1>Penambahan data Pendaftaran</h1>\n");
-      out.write("        <hr/>\n");
+      out.write("    <center>\n");
+      out.write("        <h1 align=\"center\"> Berhasil Ditambahkan </h1>\n");
+      out.write("      <hr/>\n");
       out.write("        <table>\n");
-      out.write("            <tr>\n");
-      out.write("                <td>Id Pendaftar</td>\n");
-      out.write("                <td>:</td>\n");
-      out.write("                <td>");
-      out.print(sup.getId());
-      out.write("</td>\n");
-      out.write("            </tr>\n");
       out.write("            <tr>\n");
       out.write("                <td>Nama Pendaftar</td>\n");
       out.write("                <td>:</td>\n");
@@ -84,7 +81,7 @@ public final class AddSukses_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("</td>\n");
       out.write("            </tr>\n");
       out.write("            <tr>\n");
-      out.write("                <td>JK Pendaftar</td>\n");
+      out.write("                <td>Jenis Kelamin</td>\n");
       out.write("                <td>:</td>\n");
       out.write("                <td>");
       out.print(sup.getJkPendaftar());
@@ -120,8 +117,12 @@ public final class AddSukses_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("            </tr>\n");
       out.write("        </table>\n");
       out.write("            <br/>\n");
-      out.write("            <b>Berhasil</b>Ditambahkan, <a href=\"DaftarSupplier.jsp\">Lihat</a>\n");
+      out.write("            <b>Berhasil</b>Ditambahkan, <a href=\"DaftarPendaftar.jsp\">Lihat</a>\n");
+      out.write("            </center>\n");
       out.write("    </body>\n");
+      out.write("    ");
+      org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "../Bingkai/Footer.html", out, false);
+      out.write("\n");
       out.write("</html>\n");
     } catch (Throwable t) {
       if (!(t instanceof SkipPageException)){

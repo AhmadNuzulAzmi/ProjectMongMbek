@@ -77,7 +77,7 @@ public final class Home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t<!-- FEATURES Start\n");
       out.write("    ================================================== -->\n");
       out.write("\n");
-      out.write("\t<!-- <section id=\"features\">\n");
+      out.write("\t <section id=\"features\">\n");
       out.write("\t\t<div class=\"container\">\n");
       out.write("\t\t\t<div class=\"row\">\n");
       out.write("\t\t\t\t<div class=\"col-md-4\">\n");
@@ -209,9 +209,8 @@ public final class Home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t</div>\n");
       out.write("\t\t\t\t\t</div>\t<!-- End of /.block -->\n");
       out.write("\t\t\t\t\t<div id=\"owl-example\" class=\"owl-carousel\">\n");
-      out.write("\t\t\t\t\t\t<div> </div>\n");
-      out.write("\t\t\t\t\t\t<div> </div>\n");
-      out.write("\t\t\t\t\t\t<div> <img src=\"../images/laz.png\" alt=\"\"></div>\n");
+      out.write("                                                <center>\n");
+      out.write("\t\t\t\t\t\t<div> <img src=\"../images/laz.png\" alt=\"\"></div></center>\n");
       out.write("<!--\t\t\t\t\t\t<div> <img src=\"images/company-4.png\" alt=\"\"></div>\n");
       out.write("\t\t\t\t\t\t<div> <img src=\"images/company-5.png\" alt=\"\"></div>\n");
       out.write("\t\t\t\t\t\t<div> <img src=\"images/company-6.png\" alt=\"\"></div>\n");

@@ -7,7 +7,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    <jsp:include page="../Bingkai/header1.html"></jsp:include>
+    <jsp:include page="../Bingkai/header.html"></jsp:include>
     
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
