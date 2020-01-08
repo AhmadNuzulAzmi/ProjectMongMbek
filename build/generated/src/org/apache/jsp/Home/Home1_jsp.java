@@ -54,6 +54,13 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("        <title>JSP Page</title>\n");
       out.write("    </head>\n");
       out.write("    <body>\n");
+      out.write("        ");
+ 
+        String name=(String)session.getAttribute("sessname"); 
+        out.print("Selamat Datang "+name); 
+        
+      out.write(" \n");
+      out.write("\n");
       out.write("        <!-- SLIDER Start\n");
       out.write("    ================================================== -->\n");
       out.write("\n");
@@ -90,7 +97,7 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t\t<center>\n");
       out.write("\t\t\t\t\t\t  \t<div class=\"col-sm-6 col-md-4\">\n");
       out.write("\t\t\t\t\t\t\t    <div class=\"thumbnail\">\n");
-      out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"blog-single.html\">\n");
+      out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"../Hukum/HukumQurban1.jsp\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<img src=\"../images/s2.png\"  alt=\"...\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<h3> Qurban </h3>\n");
       out.write("\t\t\t\t\t\t\t\t\t</a>\n");
@@ -124,7 +131,7 @@ public final class Home1_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\t\t\t\t\t\t  \t<center>\n");
       out.write("\t\t\t\t\t\t  \t<div class=\"col-sm-6 col-md-4\">\n");
       out.write("\t\t\t\t\t\t\t    <div class=\"thumbnail\">\n");
-      out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"blog-single.html\">\n");
+      out.write("\t\t\t\t\t\t\t    \t<a class=\"catagotie-head\" href=\"../Hukum/HukumAqiqah1.jsp\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<img src=\"../images/k4.png\" alt=\"...\">\n");
       out.write("\t\t\t\t\t\t\t\t\t\t<h3> Aqiqah </h3>\n");
       out.write("\t\t\t\t\t\t\t\t\t</a>\n");

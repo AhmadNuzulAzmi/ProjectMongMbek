@@ -17,6 +17,10 @@
     Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/mongmbek","root","");
     Statement st = con.createStatement();
     ResultSet rs;
+    
+    
+    session.setAttribute("sessname",userid); 
+
     rs = st.executeQuery("select * from pendaftaran where username='" + userid + "' and password='" + pwd + "'");
     if (rs.next()) {
         response.sendRedirect("../Home/Home1.jsp");

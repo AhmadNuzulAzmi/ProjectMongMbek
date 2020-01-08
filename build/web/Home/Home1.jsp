@@ -5,6 +5,8 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@page import="mong.PendaftaranFacade" %>
+<%@page import="mong.Pendaftaran" %>
 <!DOCTYPE html>
 <html>
      <jsp:include page="../Bingkai/header1.html"></jsp:include>
@@ -13,6 +15,14 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <br/>
+        <h2 align="center">
+        <% 
+        String name=(String)session.getAttribute("sessname"); 
+        out.print("Selamat Datang "+name); 
+        %> 
+        </h2>
+
         <!-- SLIDER Start
     ================================================== -->
 
@@ -49,7 +59,7 @@
 							<center>
 						  	<div class="col-sm-6 col-md-4">
 							    <div class="thumbnail">
-							    	<a class="catagotie-head" href="../Hukum/HukumQurban.jsp">
+							    	<a class="catagotie-head" href="../Hukum/HukumQurban1.jsp">
 										<img src="../images/s2.png"  alt="...">
 										<h3> Qurban </h3>
 									</a>
@@ -60,6 +70,11 @@
 							        			<span> Daftar </span>
 							        		</a>
 							        	</p>
+                                                                        <br/>
+								        	<a href="../Pesan/KonfirmasiPesanQurban.jsp" class="btn btn-default btn-transparent" role="button">
+								        		<span> Konfirmasi Pesanan Qurban </span>
+								        	</a>
+								      
 							      	</div>	<!-- End of /.caption -->
 							    </div>	<!-- End of /.thumbnail -->
 						  	</div>	<!-- End of /.col-sm-6 col-md-4 -->
@@ -83,7 +98,7 @@
 						  	<center>
 						  	<div class="col-sm-6 col-md-4">
 							    <div class="thumbnail">
-							    	<a class="catagotie-head" href="../Hukum/HukumAqiqah.jsp">
+							    	<a class="catagotie-head" href="../Hukum/HukumAqiqah1.jsp">
 										<img src="../images/k4.png" alt="...">
 										<h3> Aqiqah </h3>
 									</a>

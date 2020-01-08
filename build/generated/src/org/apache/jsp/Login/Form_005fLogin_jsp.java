@@ -59,6 +59,7 @@ public final class Form_005fLogin_jsp extends org.apache.jasper.runtime.HttpJspB
       out.write("        <title>JSP Page</title>\n");
       out.write("    </head>\n");
       out.write("    <body>\n");
+      out.write("    <center style=\"background-color: #a6f77b\">\n");
       out.write("        <table>\n");
       out.write("            <tr>\n");
       out.write("                <td>");
@@ -80,9 +81,9 @@ public final class Form_005fLogin_jsp extends org.apache.jasper.runtime.HttpJspB
       out.write("                    <h2>LOGIN</h2>\r\n");
       out.write("                    <div class=\"underline-title\"></div>\r\n");
       out.write("                </div>\r\n");
-      out.write("                <form method=\"post\" class=\"form\" action=\"../Home/ceklogin.jsp\">\r\n");
+      out.write("                <form method=\"post\" class=\"form\" action=\"Cek_Login.jsp\">\r\n");
       out.write("                    <label for=\"user-email\" style=\"padding-top:13px\">\r\n");
-      out.write("                        &nbsp;Email\r\n");
+      out.write("                        &nbsp;Username\r\n");
       out.write("                    </label>\r\n");
       out.write("                    <input id=\"user-email\" class=\"form-content\"  name=\"username\" autocomplete=\"on\" required />\r\n");
       out.write("                    <div class=\"form-border\"></div>\r\n");
@@ -90,11 +91,8 @@ public final class Form_005fLogin_jsp extends org.apache.jasper.runtime.HttpJspB
       out.write("                    </label>\r\n");
       out.write("                    <input id=\"user-password\" class=\"form-content\" type=\"password\" name=\"password\" required />\r\n");
       out.write("                    <div class=\"form-border\"></div>\r\n");
-      out.write("                    <a href=\"#\">\r\n");
-      out.write("<!--                                  <legend id=\"forgot-pass\">Forgot password?</legend>-->\r\n");
-      out.write("                    </a>\r\n");
+      out.write("                    \r\n");
       out.write("                    <input id=\"submit-btn\" type=\"submit\" name=\"submit\" value=\"LOGIN\" />\r\n");
-      out.write("                    <a href=\"#\" id=\"signup\">Don't have account yet?</a>\r\n");
       out.write("                </form>\r\n");
       out.write("            </div>\r\n");
       out.write("        </div>\r\n");
@@ -102,9 +100,8 @@ public final class Form_005fLogin_jsp extends org.apache.jasper.runtime.HttpJspB
       out.write("</html>\r\n");
       out.write("</td>\n");
       out.write("            </tr>\n");
-      out.write("                \n");
       out.write("        </table>\n");
-      out.write("        \n");
+      out.write("    </center>   \n");
       out.write("    </body>\n");
       out.write("    ");
       org.apache.jasper.runtime.JspRuntimeLibrary.include(request, response, "../Bingkai/Footer.html", out, false);

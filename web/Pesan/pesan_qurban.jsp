@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <jsp:include page="../Bingkai/header.html"></jsp:include>
+        <jsp:include page="../Bingkai/header1.html"></jsp:include>
         <title></title>
     </head>
     <body>
@@ -15,7 +15,8 @@
                         <div class="form-group">
                          <label for="inputwebsite" class="col-sm-2 control-label">Atas Nama</label>
 			<div class="col-sm-10">
-                          <input type="text" class="form-control" id="inputwebsite" placeholder="Atas Nama" name="nama" required />
+                          <input type="text" class="form-control" id="inputwebsite" placeholder="Atas Nama" name="nama" required
+                                 oninvalid="this.setCustomValidity('Isi Nama')" oninput="setCustomValidity('')">
 			</div>
                     </div>	<!-- End of /.form-group -->
                     
